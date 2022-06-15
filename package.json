@@ -1,0 +1,17 @@
+{
+  "name": "l1-big-o",
+  "version": "1.0.0",
+  "description": "Introduction to Big O",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "big-0",
+    "algorithms",
+    "js"
+  ],
+  "author": "Ian Okumu",
+  "license": "ISC"
+}
