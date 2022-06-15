@@ -51,7 +51,7 @@ const findValueLog = (value, top, bottom) => {
     }else{
         // bottom half
         if(value === scores[half]) {
-            return half
+            index = half
         }
         findValueLog(value, scores.length - 1, half)
     }
